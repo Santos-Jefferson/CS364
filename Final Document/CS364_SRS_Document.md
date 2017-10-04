@@ -89,7 +89,7 @@ John Memmott<br/>
 | Revision 3    |           |                           |   1.2   |
 # 1.0 Introduction
 ## 1.1 Purpose
-The purpose of this document is to provide a detailed description of the Student Calendar Integration. 
+The purpose of this document is to provide a detailed description of the Student Calendar Integration (Don't we have a name for this app/software? I think would be good calling by its name in this part, no?). 
 It will explain the project's features, target audience and hardware and software requirements. This document is intended for both the stakeholders and developers of the system.
 ## 1.2 Scope of Project
 
